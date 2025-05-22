@@ -1,4 +1,4 @@
-# maimai DX Prism Plus 官网动态背景
+# 仿造maimai DX Prism Plus 官网的动态背景
 
 ## 项目简介
 本项目提供了一个类似于 maimai DX Prism Plus 游戏官网的动态背景效果。该效果通过 HTML 和 CSS 实现，适用于个人网站、项目展示或其他需要动态视觉效果的场景。
