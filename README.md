@@ -108,7 +108,7 @@
 ```
 
 ## 示例
-你可以访问项目文件夹下的"index.html" 查看动态背景效果的实际运行情况。
+你可以访问项目示例 "[index.html](https://beluga0101.github.io/maimaiDX-Prism-Plus-Background/)" 查看动态背景效果的实际运行情况。
 
 ## 贡献
 欢迎提交 Issues 或 Pull Requests 来帮助改进此项目。
